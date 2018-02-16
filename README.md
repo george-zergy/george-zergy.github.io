@@ -1,2 +1,2 @@
 # qachal.tk
-Open source project which main purpose is to make QACHAL as popular as possible, thanks for contribution.
+// We are open to any type of commitments and contribution :)
